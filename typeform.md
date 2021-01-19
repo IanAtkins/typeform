@@ -1,6 +1,6 @@
 ---
 title: Typeform Speed Test
-layout: default
+layout: page
 ---
 
 <h1>This is the content of my page</h1>
