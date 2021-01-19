@@ -24,7 +24,6 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Typeform', link: '/typeform'}
-  - {name: 'Typeform Alt', link: '/typeform-alt'}
   
 
 tagline: >
