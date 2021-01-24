@@ -23,15 +23,15 @@ navigation: # Navigation links
   
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Organized Typeform Pages for CT
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  codehatcher # replace with your_github_username or comment to remove link from footer
-instagram_username: captainavi # replace with your_instagram_username or comment to remove link from footer
+# github_username:  codehatcher # replace with your_github_username or comment to remove link from footer
+instagram_username: choosingtherapy # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: codehatcher # to enable comments replace with your_disqus_shortname
