@@ -4,10 +4,6 @@
 
 A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
 
-> ⚠️ This theme is no longer actively maintained.
-
-![Sleek Jekyll Theme](./sleek.jpg)
-
 ## Features
 
 * Compatible with [Github Pages](https://pages.github.com/)
@@ -187,6 +183,8 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/jancz
 To set up your environment to develop this theme, run `bundle install` and `npm install`.
 
 The theme is setup just like a normal Jekyll site! Check out [file structure overview](#file-structure-overview) for details. To test the theme, run `gulp` and open your browser at `http://localhost:3000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to the content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+google tags only work in production env which is set by github. To build locally pass env like this `JEKYLL_ENV=production bundle exec jekyll build` and then check the `_site/typeform-template/index.html` to make sure the tag is in the `<head>` element
 
 ## License
 
