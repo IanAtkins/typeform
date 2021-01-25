@@ -8,6 +8,10 @@ layout: compress
 
 <body class="site">
 
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 {% if site.google_tag_manager %}
 
 <!-- Google Tag Manager (noscript) -->
