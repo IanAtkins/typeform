@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is a title"
+title: "This is the 'post' title"
 summary: "Summary to describe the form on the page for your reference"
 categories: Typeform
 ---
