@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Choosing Therapy | High Functioning | Find a life-changing therapist."
-summary: "Used on articles discussing high-functioning, mild, early."
+title: "Choosing Therapy & Remedy | Find a life-changing therapist."
+summary: "Used for Remedy referrals."
 categories: Typeform
 ---
 .
