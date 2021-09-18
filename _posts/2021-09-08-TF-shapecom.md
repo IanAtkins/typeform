@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Choosing Therapy | Shampe.com | Find a life-changing therapist."
+title: "Choosing Therapy | Shape.com | Find a life-changing therapist."
 summary: "Used for Shape.com."
 categories: Typeform
 ---
